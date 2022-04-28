@@ -16,7 +16,7 @@ In this page, you can get the contents list of the MAT and the links for the con
   - 1-1편) Search Strategy
   - 1-2편) Search Space
 
-- 2편) HPO
+- 2편) [HPO(Hyper-parameter optimization)란 무엇일까](https://dacon.io/codeshare/4863?utm_source=dacrew&utm_medium=197941&utm_campaign=dacrew_2)
 - 3편) NAS
 
 ### :gem: Let's elaborate on AutoML
