@@ -28,10 +28,14 @@ In this page, you can get the contents list of the MAT and the links for the con
   - 4-3편) Bayesian Search
   - Simple Survey
   
-    - 4-4-1편)
-    - 4-4-2편)
-    - 4-4-3편)
-    - 4-4-4편)
+    - 4-4-1편) HPO(PSO) 논문 읽어보기
+    > A novel LS-SVMs hyper-parameter selection based on particle swarm optimization 
+    - 4-4-2편) HPO(uDeas) 논문 읽어보기
+    > Hyperparameter optimization of deep neural network using univariate dynamic encoding algorithm for searches
+    - 4-4-3편) HPO(강화학습) 논문 읽어보기
+    > Efficient hyperparameter optimization through model-based reinforcement learning
+    - 4-4-4편) HPO(Population-based Bandit Optimization) 논문 읽어보기
+    > Provable Efficient Online hyperparameter optimization with population-based bandits
 
 - NAS(Network Archtecture Search)
 
