@@ -23,7 +23,7 @@ In this page, you can get the contents list of the MAT and the links for the con
 
 - HPO(Hyper-parameter Optimization)
 
-  - 4-1편) Grid Search
+  - 4-1편) [HPO알아보기: (1) Grid Search](https://dacon.io/codeshare/4922?utm_source=dacrew&utm_medium=197941&utm_campaign=dacrew_2)
   - 4-2편) Random Search
   - 4-3편) Bayesian Search
   - Simple Survey
