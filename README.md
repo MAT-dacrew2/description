@@ -42,7 +42,16 @@ In this page, you can get the contents list of the MAT and the links for the con
   - 5-1편) Evolutionary Algorithm based Method
   - 5-2편) Reinforcement Learning based Method
   - 5-3편) Gradient Descent based Method
-  - Simple Survey
+  - 5-4편) Simple Survey
+
+    - 5-4-1편) NAS(확률기반) 논문 읽어보기
+    > Probabilistic Neural Architecture Search
+    - 5-4-2편) NAS(Bayesian) 논문 읽어보기
+    > BayesNAS: A Bayesian Approach for Neural Architecture Search
+    - 5-4-3편) NAS(Evolutionary) 논문 읽어보기
+    > CARS: Continuous Evolution for Efficient Neural Architecture Search
+    - 5-4-4편) NAS(Batch Normalization) 논문 읽어보기
+    > BN-NAS: Neural Architecture Search with Batch Normalization
   
 ### :gem: Experiments using AutoML Library
 
