@@ -59,7 +59,8 @@ In this page, you can get the contents list of the MAT and the links for the con
 
   1. [Breast Cancer Wisconsin](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
   2. [Used car price precition](https://dacon.io/competitions/official/235901/overview/description)
-  3. Searching..
+      - [7-0편 실전 AutoML 2탄-EDA](https://dacon.io/competitions/official/235901/codeshare/5097?utm_source=dacrew&utm_medium=197941&utm_campaign=dacrew_2)
+  4. Searching..
 
 - Pycaret
 - autosklearn
