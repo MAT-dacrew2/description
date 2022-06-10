@@ -24,8 +24,8 @@ In this page, you can get the contents list of the MAT and the links for the con
 - HPO(Hyper-parameter Optimization)
 
   - 4-1편) [HPO알아보기: (1) Grid Search](https://dacon.io/codeshare/4922?utm_source=dacrew&utm_medium=197941&utm_campaign=dacrew_2)
-  - 4-2편) Random Search
-  - 4-3편) Bayesian Search
+  - 4-2편) [HPO알아보기: (2) Random Search](https://dacon.io/codeshare/5122?utm_source=dacrew&utm_medium=197941&utm_campaign=dacrew_2)
+  - 4-3편) [HPO알아보기: (3) Bayesian Search](https://dacon.io/codeshare/5125?utm_source=dacrew&utm_medium=197941&utm_campaign=dacrew_2)
   - Simple Survey
   
     - 4-4-1편) HPO(PSO) 논문 읽어보기
@@ -55,17 +55,20 @@ In this page, you can get the contents list of the MAT and the links for the con
   
 ### :gem: Experiments using AutoML Library
 
-- Data set
 
-  1. [Breast Cancer Wisconsin](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
-  2. [Used car price precition](https://dacon.io/competitions/official/235901/overview/description)
-      - [7-0편 실전 AutoML 2탄-EDA](https://dacon.io/competitions/official/235901/codeshare/5097?utm_source=dacrew&utm_medium=197941&utm_campaign=dacrew_2)
-  4. Searching..
+1. [Breast Cancer Wisconsin](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 
-- Pycaret
-- autosklearn
-- autokeras
-- FLAML
+    - Pycaret
+    - autosklearn
+    - [실전 AutoML 1탄-AutoKeras 사용해보기](https://dacon.io/codeshare/5126?utm_source=dacrew&utm_medium=197941&utm_campaign=dacrew_2)
+    - FLAML
+
+2. [Used car price precition](https://dacon.io/competitions/official/235901/overview/description)
+    - [실전 AutoML 2탄-EDA](https://dacon.io/competitions/official/235901/codeshare/5097?utm_source=dacrew&utm_medium=197941&utm_campaign=dacrew_2)
+    - Pycaret
+    - autosklearn
+    - autokeras
+    - FLAML
 
 
 ---
