@@ -58,10 +58,10 @@ In this page, you can get the contents list of the MAT and the links for the con
 
 1. [Breast Cancer Wisconsin](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 
-    - Pycaret
-    - autosklearn
+    - [실전 AutoML 1탄-PyCaret 사용해보기](https://dacon.io/codeshare/5161?utm_source=dacrew&utm_medium=197941&utm_campaign=dacrew_2)
+    - [실전 AutoML 1탄-Auto-Sklearn 사용해보기](https://dacon.io/codeshare/5160?utm_source=dacrew&utm_medium=197941&utm_campaign=dacrew_2)
     - [실전 AutoML 1탄-AutoKeras 사용해보기](https://dacon.io/codeshare/5126?utm_source=dacrew&utm_medium=197941&utm_campaign=dacrew_2)
-    - FLAML
+    - [실전 AutoML 1탄-FLAML 사용해보기](https://dacon.io/codeshare/5162?utm_source=dacrew&utm_medium=197941&utm_campaign=dacrew_2)
 
 2. [Used car price precition](https://dacon.io/competitions/official/235901/overview/description)
     - [실전 AutoML 2탄-EDA](https://dacon.io/competitions/official/235901/codeshare/5097?utm_source=dacrew&utm_medium=197941&utm_campaign=dacrew_2)
