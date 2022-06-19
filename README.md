@@ -34,23 +34,21 @@ In this page, you can get the contents list of the MAT and the links for the con
     > Hyperparameter optimization of deep neural network using univariate dynamic encoding algorithm for searches 
     - 4-4-3편) [HPO(강화학습) 논문 읽어보기](https://dacon.io/codeshare/5190?utm_source=dacrew&utm_medium=197941&utm_campaign=dacrew_2) [woojin-heo]
     > Efficient hyperparameter optimization through model-based reinforcement learning 
-    - 4-4-4편) [HPO(Population-based Bandit Optimization) 논문 읽어보기 [0525hhgus]
+    - 4-4-4편) [HPO(Population-based Bandit Optimization) 논문 읽어보기](https://dacon.io/codeshare/5195?utm_source=dacrew&utm_medium=197941&utm_campaign=dacrew_2) [0525hhgus]
     > Provable Efficient Online hyperparameter optimization with population-based bandits 
 
 - NAS(Network Archtecture Search)
 
-  - 5-1편) Evolutionary Algorithm based Method [woojin-heo]
-  - 5-2편) Reinforcement Learning based Method [mihosang]
-  - 5-3편) Gradient Descent based Method [0525hhgus]
+  - 5-1편) [NAS알아보기: (1) Evolutionary Algorithm based Method](https://dacon.io/codeshare/5196?utm_source=dacrew&utm_medium=197941&utm_campaign=dacrew_2) [woojin-heo]
+  - 5-2편) [NAS알아보기: (2) Reinforcement Learning based Method](https://dacon.io/codeshare/5198?utm_source=dacrew&utm_medium=197941&utm_campaign=dacrew_2) [mihosang]
+  - 5-3편) [NAS알아보기: (3) Gradient Descent based Method](https://dacon.io/codeshare/5199?utm_source=dacrew&utm_medium=197941&utm_campaign=dacrew_2) [0525hhgus]
   - 5-4편) Simple Survey [nsbg]
 
     - 5-4-1편) NAS(확률기반) 논문 읽어보기 [0525hhgus]
     > Probabilistic Neural Architecture Search 
-    - 5-4-2편) NAS(Bayesian) 논문 읽어보기 [mihosang]
-    > BayesNAS: A Bayesian Approach for Neural Architecture Search 
-    - 5-4-3편) NAS(Evolutionary) 논문 읽어보기 [woojin-heo]
+    - 5-4-2편) NAS(Evolutionary) 논문 읽어보기 [woojin-heo]
     > CARS: Continuous Evolution for Efficient Neural Architecture Search 
-    - 5-4-4편) NAS(Batch Normalization) 논문 읽어보기 [nsbg]
+    - 5-4-3편) [NAS(Batch Normalization) 논문 읽어보기](https://dacon.io/codeshare/5200?utm_source=dacrew&utm_medium=197941&utm_campaign=dacrew_2) [nsbg]
     > BN-NAS: Neural Architecture Search with Batch Normalization 
   
 ### :gem: Experiments using AutoML Library
