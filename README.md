@@ -28,13 +28,13 @@ In this page, you can get the contents list of the MAT and the links for the con
   - 4-3편) [HPO알아보기: (3) Bayesian Search](https://dacon.io/codeshare/5125?utm_source=dacrew&utm_medium=197941&utm_campaign=dacrew_2) [mihosang]
   - Simple Survey [nsbg]
   
-    - 4-4-1편) HPO(PSO) 논문 읽어보기 [mihosang]
+    - 4-4-1편) [HPO(PSO) 논문 읽어보기](https://dacon.io/codeshare/5187?utm_source=dacrew&utm_medium=197941&utm_campaign=dacrew_2) [mihosang]
     > A novel LS-SVMs hyper-parameter selection based on particle swarm optimization  
-    - 4-4-2편) HPO(uDeas) 논문 읽어보기 [nsbg]
+    - 4-4-2편) [HPO(uDeas) 논문 읽어보기](https://dacon.io/codeshare/5189?utm_source=dacrew&utm_medium=197941&utm_campaign=dacrew_2) [nsbg]
     > Hyperparameter optimization of deep neural network using univariate dynamic encoding algorithm for searches 
-    - 4-4-3편) HPO(강화학습) 논문 읽어보기 [woojin-heo]
+    - 4-4-3편) [HPO(강화학습) 논문 읽어보기](https://dacon.io/codeshare/5190?utm_source=dacrew&utm_medium=197941&utm_campaign=dacrew_2) [woojin-heo]
     > Efficient hyperparameter optimization through model-based reinforcement learning 
-    - 4-4-4편) HPO(Population-based Bandit Optimization) 논문 읽어보기 [0525hhgus]
+    - 4-4-4편) [HPO(Population-based Bandit Optimization) 논문 읽어보기 [0525hhgus]
     > Provable Efficient Online hyperparameter optimization with population-based bandits 
 
 - NAS(Network Archtecture Search)
@@ -65,10 +65,10 @@ In this page, you can get the contents list of the MAT and the links for the con
 
 2. [Used car price precition](https://dacon.io/competitions/official/235901/overview/description)
     - [실전 AutoML 2탄-EDA](https://dacon.io/competitions/official/235901/codeshare/5097?utm_source=dacrew&utm_medium=197941&utm_campaign=dacrew_2)
-    - Pycaret [0525hhgus]
-    - autosklearn [woojin-heo]
-    - autokeras [nsbg]
-    - FLAML [mihosang]
+    - [실전 AutoML 2탄: Pycaret](https://dacon.io/competitions/official/235901/codeshare/5191?utm_source=dacrew&utm_medium=197941&utm_campaign=dacrew_2) [0525hhgus]
+    - [실전 AutoML 2탄: AutoSklearn](https://dacon.io/competitions/official/235901/codeshare/5193?utm_source=dacrew&utm_medium=197941&utm_campaign=dacrew_2) [woojin-heo]
+    - [실전 AutoML 2탄:AutoKeras](https://dacon.io/competitions/official/235901/codeshare/5192?utm_source=dacrew&utm_medium=197941&utm_campaign=dacrew_2) [nsbg]
+    - [실전 AutoML 2탄:FLAML](https://dacon.io/competitions/official/235901/codeshare/5194?utm_source=dacrew&utm_medium=197941&utm_campaign=dacrew_2) [mihosang]
 
 
 ---
