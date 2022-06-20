@@ -44,9 +44,9 @@ In this page, you can get the contents list of the MAT and the links for the con
   - 5-3편) [NAS알아보기: (3) Gradient Descent based Method](https://dacon.io/codeshare/5199?utm_source=dacrew&utm_medium=197941&utm_campaign=dacrew_2) [0525hhgus]
   - 5-4편) Simple Survey [nsbg]
 
-    - 5-4-1편) NAS(확률기반) 논문 읽어보기 [0525hhgus]
+    - 5-4-1편) [NAS(확률기반) 논문 읽어보기](https://dacon.io/codeshare/5202?utm_source=dacrew&utm_medium=197941&utm_campaign=dacrew_2) [0525hhgus]
     > Probabilistic Neural Architecture Search 
-    - 5-4-2편) NAS(Evolutionary) 논문 읽어보기 [woojin-heo]
+    - 5-4-2편) [NAS(Evolutionary) 논문 읽어보기](https://dacon.io/codeshare/5205?utm_source=dacrew&utm_medium=197941&utm_campaign=dacrew_2) [woojin-heo]
     > CARS: Continuous Evolution for Efficient Neural Architecture Search 
     - 5-4-3편) [NAS(Batch Normalization) 논문 읽어보기](https://dacon.io/codeshare/5200?utm_source=dacrew&utm_medium=197941&utm_campaign=dacrew_2) [nsbg]
     > BN-NAS: Neural Architecture Search with Batch Normalization 
